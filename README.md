@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Sanjana Nandi, a recent graduate from Cornell University. Thank you for visiting my GitHub. Feel free to reach out!
+I'm Sanjana Nandi, a recent graduate from Cornell University. Thank you for visiting my GitHub profile. Feel free to reach out!
 
 ## 📌 Connect 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sanjana679)
