@@ -40,7 +40,6 @@ I'm Sanjana Nandi, a recent graduate from Cornell University. Thank you for visi
 ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge\&logo=git\&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge\&logo=react\&logoColor=%2361DAFB)
 ![PyMTL3](https://img.shields.io/badge/PyMTL3-Modeling-FF6F00?style=for-the-badge\&logo=python\&logoColor=white)
-![DIRSIG](https://img.shields.io/badge/DIRSIG-Simulation-6A1B9A?style=for-the-badge\&logo=codeforces\&logoColor=white)
 ![CCNA](https://img.shields.io/badge/CCNA-Certified-0A66C2?style=for-the-badge\&logo=cisco\&logoColor=white)
 
 ---
