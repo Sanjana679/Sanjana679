@@ -23,20 +23,20 @@ I'm Sanjana Nandi, a PhD student at Rochester Institute of Technology. Thank you
 
 ## 💼 Skillset
 
-### 💬 Languages & Libraries
+### Languages
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge\&logo=java\&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge\&logo=python\&logoColor=ffdd54)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge\&logo=postgresql\&logoColor=white)
+
+### Libraries
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge\&logo=pytorch\&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge\&logo=opencv\&logoColor=white)
+![PyMTL3](https://img.shields.io/badge/PyMTL3-Modeling-FF6F00?style=for-the-badge\&logo=python\&logoColor=white)
 
 ---
 
 ### 💻 Tools & Technologies
-
-![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge\&logo=git\&logoColor=white)
-![PyMTL3](https://img.shields.io/badge/PyMTL3-Modeling-FF6F00?style=for-the-badge\&logo=python\&logoColor=white)
 ![CCNA](https://img.shields.io/badge/CCNA-Certified-0A66C2?style=for-the-badge\&logo=cisco\&logoColor=white)
 
 ---
